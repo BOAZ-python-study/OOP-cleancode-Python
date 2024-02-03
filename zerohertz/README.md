@@ -72,13 +72,26 @@ class <클래스 이름>():
 
 ## 여러 객체 관리
 
++ `import module` 후 `__pycache__`의 의미: 컴파일 단계를 최적화 하여 저장
++ `.pyc`: Python compiled의 약어
++ 객체 관리자 객체 (object manager object): 리스트나 딕셔너리로 객체를 관리하고 메서드를 호출하는 객체
++ 컴포지션: 한 객체가 하나 이상의 다른 객체를 관리하는 논리적인 구조
++ `Exception` 클래스를 상속하여 사용자가 지정한 예외 정의 가능
++ 
+
 ---
 
 # 파이게임과 GUI
 
 ## 파이게임 시작하기
 
++ 이벤트: 프로그램이 실행 중일 때 발생하는 사건 (`pygame.event.get()`)
+
 ## 객체지향 파이게임
+
+<p align="center">
+<img width="752" alt="Screenshot 2024-02-04 at 3 30 07 AM" src="https://github.com/BOAZ-python-study/Object-Oriented-Python-Code/assets/42334717/79a1900e-af2a-4378-84dc-7309d0272219">
+</p>
 
 <!-- 2주차 -->
 <!-- 3주차 -->
